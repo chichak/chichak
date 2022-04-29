@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chichak
 - 👀 I’m interested in cloud implementation and artificial intelligence
-- 🌱 I’m currently learning a looot of things
+- 🌱 I’m an IT engineer with a PhD in machine learning
 - 💞️ I’m looking to collaborate on end to end AI solutions
 - 📫 How to reach me : ichrak.7@gmail.com
 
